@@ -82,7 +82,7 @@ Sex has the largest influence (female raises, male lowers the odds of survival),
 **Logistic Regression** (scikit-learn, `max_iter=1000`). It combines the features into a probability of survival and predicts "survived" when that probability is above 50%. It was chosen because it is fast, interpretable and a strong first model for this kind of problem.
 
 ## 📁 Project Structure
-
+“Install the packages with pip install -r requirements.txt, download train.csv from Kaggle into data/, then open the notebook in notebooks/."
 ```
 titanic-survival-classification/
 ├── data/
