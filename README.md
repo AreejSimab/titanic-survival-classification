@@ -142,8 +142,8 @@ Python · pandas · matplotlib · seaborn · scikit-learn · Jupyter
 **Areej Simab**
 Data Science Intern, Arch Technologies
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: _add your link_
+- GitHub: [@AreejSimab](https://github.com/your-username)
+- LinkedIn: www.linkedin.com/in/areej-simab-3718502a3
 
 ## 📄 License
 
