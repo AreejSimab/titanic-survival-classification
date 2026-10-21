@@ -101,7 +101,7 @@ titanic-survival-classification/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/titanic-survival-classification.git
+git clone https://github.com/<AreejSimabe>/titanic-survival-classification.git
 cd titanic-survival-classification
 
 # 2. Install dependencies
