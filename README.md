@@ -97,25 +97,6 @@ titanic-survival-classification/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<AreejSimabe>/titanic-survival-classification.git
-cd titanic-survival-classification
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Download train.csv from Kaggle and place it in data/ (see data/README.md)
-
-# 4. Open the notebook ...
-jupyter notebook notebooks/Titanic_Survival_Classification.ipynb
-
-# ... or run the script version
-python src/titanic_classification.py
-```
-
 ## ⚠️ Limitations
 
 - Small dataset (891 passengers): the test score comes from only 179 people and could shift with a different split.
